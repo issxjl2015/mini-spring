@@ -11,7 +11,7 @@ import org.springframework.beans.factory.config.BeanDefinition;
 public interface BeanDefinitionRegistry {
 
 	/**
-	 * 向注册表中注BeanDefinition
+	 * 向注册表中注册BeanDefinition
 	 *
 	 * @param beanName
 	 * @param beanDefinition
