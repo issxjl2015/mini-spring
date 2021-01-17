@@ -4,6 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * 定义一个简单的bean容器BeanFactory，
+ * 内部包含一个map用以保存bean，
+ * 只有注册bean和获取bean两个方法
  * @author derekyi
  * @date 2020/11/22
  */
